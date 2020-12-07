@@ -1,4 +1,4 @@
-package org.ikinsure.hard.solver;
+package org.ikinsure.solver;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package org.ikinsure.hard.solver;
+package org.ikinsure.solver;
 
 public class Matrix {
 
